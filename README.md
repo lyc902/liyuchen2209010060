@@ -33,17 +33,12 @@
 **技术栈**：PyTorch + OpenCV + Docker  
 ### 3. 金融风控评分卡系统（2021.09 - 2022.05）  
 **技术栈**：Python + Logistic Regression + SHAP  
-
-
 ---
-
 ## 🏆 荣誉奖项  
 - 2023 Kaggle竞赛银牌（TOP 5%）  
 - 2022 全国大学生数据挖掘挑战赛特等奖  
 - 2021 华为云AI开发者大赛亚军  
-
 ---
-
 ## 📚 学术成果  
 **论文**  
 - [1] Zhang S., et al. "Multi-modal Stock Trend Prediction Using Graph Attention Networks", *AAAI 2023*（CCF-A类会议）  
@@ -51,9 +46,7 @@
 
 **专利**  
 - 一种基于联邦学习的隐私保护推荐系统（专利号：ZL2023XXXXXX.X）  
-
 ---
-
 ## 🌟 自我评价  
 - 数据敏感：能从杂乱数据中发现关键特征（曾通过用户浏览时长波动发现系统漏洞）  
 - 工程能力强：主导过3个从0到1的AI项目落地  
