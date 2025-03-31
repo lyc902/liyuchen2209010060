@@ -7,62 +7,33 @@
 - **GitHub**：github.com/liyuchen-dev  
 - **LinkedIn**：linkedin.com/in/liyuchen-ds  
 - **地址**：湖南省常德市
-
 ---
-
 ## 🎯 求职意向  
 **机器学习工程师 | 数据科学家**  
 - 希望将5年数据分析经验和3年机器学习建模能力应用于互联网/金融科技行业  
-- 擅长从海量数据中挖掘商业价值，主导过千万级用户画像系统建设  
-
 ---
-
 ## 🎓 教育背景  
 **湖南工商大学|管理科学与工程学院 
 *本科 | 信息管理与信息系统 |2022 - 2026*  
 - GPA：3.8/4.0（专业前5%）  
 - 核心课程：机器学习（95）、深度学习（93）、大数据技术（94）  
-- 毕业论文：《基于Transformer的多模态金融舆情分析系统》（获校级优秀论文）  
- 
 ---
-
 ## 💻 技术栈  
 **▎编程语言**  
-- Python（熟练）：NumPy/Pandas/Sklearn/PyTorch全栈开发  
-- SQL（精通）：复杂查询优化，Spark SQL性能调优  
-- R/Java/JavaScript（熟悉）  
-
-**▎机器学习**  
-- 传统模型：XGBoost/LightGBM（AUC提升15%实战经验）  
-- 深度学习：BERT/CNN/RNN项目部署经验  
-- 特征工程：自动化特征生成框架开发者  
-
+- Python（熟练）：NumPy/Pandas/Sklearn/PyTorch全栈开发  - SQL（精通）：复杂查询优化，Spark SQL性能调优  - R/Java/JavaScript（熟悉） 
 **▎工具平台**  
 - 大数据：Hadoop/Spark/Flink 数据处理流水线  
 - 云服务：AWS S3/EC2/SageMaker 项目部署  
 - 可视化：Tableau/Power BI 20+商业看板开发  
-
 ---
-
 ## 🚀 项目经验  
-
 ### 1. 电商用户行为预测系统（2023.03 - 2023.12）  
 **技术栈**：Python + XGBoost + Flask + Redis  
-- 构建用户点击率预测模型，AUC达到0.92（行业基准0.85）  
-- 开发实时特征计算模块，QPS提升至5000+  
-- 成果：推动GMV增长7%，获公司创新奖金  
-
 ### 2. 医疗影像分割系统（2022.06 - 2023.02）  
 **技术栈**：PyTorch + OpenCV + Docker  
-- 实现U-Net++改进模型，Dice系数达0.91（原模型0.84）  
-- 设计动态数据增强策略，小样本数据性能提升12%  
-- 论文发表于《Medical Image Analysis》（SCI二区）  
-
 ### 3. 金融风控评分卡系统（2021.09 - 2022.05）  
 **技术栈**：Python + Logistic Regression + SHAP  
-- 开发基于WOE编码的自动化评分卡工具  
-- 模型KS值达0.45，坏账率降低23%  
-- 获2022中国金融科技大赛金奖  
+
 
 ---
 
